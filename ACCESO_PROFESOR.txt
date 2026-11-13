@@ -2,7 +2,7 @@ CUENTA DE PRUEBA
 
 Rol: Miembro del equipo
 Correo: prueba.giaflow@gmail.com
-Contraseña: GiaFlow2026
+Contraseña: TuClaveNueva123!
 
 CUENTA DE ADMINISTRADOR
 
